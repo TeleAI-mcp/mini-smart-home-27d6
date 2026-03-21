@@ -1,2 +1,3 @@
-# mini-smart-home-27d6
+# Mini Smart Home 27D6
+
 A smart home automation platform for modern development workflows.
